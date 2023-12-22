@@ -1,0 +1,15 @@
+
+Accuracy=86.36 percent
+WPM=148.25
+Accuracy=100.00 percent
+WPM=215.26
+Accuracy=100.00 percent
+WPM=226.30
+Accuracy=90.91 percent
+WPM=148.93
+Accuracy=100.00 percent
+WPM=147.83
+Accuracy=100.00 percent
+WPM=189.93
+Accuracy=100.00 percent
+WPM=161.76
